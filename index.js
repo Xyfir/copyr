@@ -4,7 +4,7 @@
  */
 module.exports = function(text) {
   const el = document.createElement('input');
-  el.type = 'text', el.value = text, el.style.display = 'none';
+  el.type = 'text', el.value = text;
   document.body.appendChild(el);
   
   el.select();
