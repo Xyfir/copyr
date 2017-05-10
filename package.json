@@ -1,6 +1,6 @@
 {
   "name": "copyr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copy text to the clipboard.",
   "main": "index.js",
   "scripts": {
