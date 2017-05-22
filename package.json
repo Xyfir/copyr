@@ -1,8 +1,8 @@
 {
   "name": "copyr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Copy text to the clipboard.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --presets babel-preset-es2015 --out-dir dist",
