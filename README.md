@@ -1,8 +1,8 @@
 Copy text to the clipboard.
 
-A simple module that lets you copy text to the clipboard. copyr uses `document.execCommand('copy')` and there are no fallbacks or unnecessary code.
+Only uses `document.execCommand('copy')`. There are no fallbacks or other unnecessary code.
 
-# Usage
+Used by [Ptorx](https://ptorx.com/) and other projects in the [Xyfir Network](https://xyfir.com/).
 
 ```js
 import copy from 'copyr';
